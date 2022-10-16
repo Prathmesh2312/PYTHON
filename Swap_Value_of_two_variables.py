@@ -1,4 +1,4 @@
-#Program to swap the value of two variables
+# Program to swap the value of two variables
 
 num1=input("Enetr first number:")
 num2=input("Enter second number:")
