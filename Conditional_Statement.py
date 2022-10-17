@@ -3,8 +3,6 @@
 #TYPES OF CONDITION STATEMENTS:-
 
 
-
-
 #A) If statement: The if statement executes a statement if a condition is True...
 
 #                           Syntax: if Condition:
