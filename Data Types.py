@@ -82,6 +82,7 @@ print(str1.replace("name","tiger"))
 
 
 
+
 #5) List data types:- List can contain homogenous values such as integer,float,strings,tuples,list and dictionaries but they are commonly used to store collection of homogenous objects..
         #in the list items can seprated by commas(,) are enclised within square brackets[]..
                     #Example:- first=[10,20,30,80]
