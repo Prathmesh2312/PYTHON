@@ -13,6 +13,7 @@ print(var1+var3)
 #then we can able to add
 
 
+
 #Simple calculator that calculates the sum of two numbers....
 print("Enter the first number:")
 A=input()
