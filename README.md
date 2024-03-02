@@ -1,3 +1,3 @@
 # PYTHON
-Python from basics
+Python from basics <br>
 Author:Prathmesh Raut.
